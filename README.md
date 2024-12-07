@@ -1,1 +1,2 @@
-# goit-markup-hw-05
+# Goit Markup Hw 05
+GoIT HTML-CSS Homework #5
